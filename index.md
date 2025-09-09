@@ -8,3 +8,18 @@ My full name is Ryan James Methven, but I just go by [RJ](https://ryme1295.githu
 * Email
 * LinkedIn
 * Github
+
+
+
+#### Educational Background
+
+
+#### Experience 
+
+
+#### Exciting things about me
+
+
+#### Map of MUS
+<embed type="text/html" src="haskll.html" width="600" height="600">
+
