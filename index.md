@@ -20,6 +20,6 @@ My full name is Ryan James Methven, but I just go by [RJ](https://ryme1295.githu
 #### Exciting things about me
 
 
-#### Map of MUS
-<embed type="text/html" src="haskll.html" width="600" height="600">
+#### Map of haskell
+<embed type="text/html" src="haskell.html" width="600" height="600">
 
