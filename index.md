@@ -21,5 +21,5 @@ My full name is Ryan James Methven, but I just go by [RJ](https://ryme1295.githu
 
 
 #### Map of Montana State Missoula
-<embed type="text/html" src="img/missoula.html" width="400" height="400">
+<embed type="text/html" src="img/missoula.html" width="600" height="600">
 
