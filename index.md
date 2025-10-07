@@ -30,4 +30,7 @@ I am WFR certified, but looking to get my WEMT certificate.
 
 #### Map of Montana State Missoula
 <embed type="text/html" src="img/missoula.html" width="600" height="600">
-I chose to map Montana State University at Missoula because I would like to attend grad school there after I have more experiance with coding.
+I chose to map Montana State University at Missoula because I would like to attend grad school there after I have more experience with coding.
+
+#### Portfolio Post work
+<img style="float: right;" src="/img/bozemen_tepm.png" height="50%">
