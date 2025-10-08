@@ -3,6 +3,7 @@ My full name is Ryan James Methven, but I just go by [RJ](https://ryme1295.githu
 
 #### Images of me
 [Picture of me in Iceland]<img style="float: right;" src="/img/259b35eb-95ca-4739-a040-eed34a248c50.JPG" height=10%">
+This picture was taken during my semester abroad in Iceland. We mostly focused on climate change in the Arctic, and I was able to work in the Icelandic Meteorological Office during my final project. During my time there, I was exposed to data analysis for snowpack profiles. I wasn't able to work with Python at the time, and I felt limited. This motivated me to pursue this course and become proficient at analyzing data with a more complex and efficient programming language.  
 ![picture of the Boulder Creek Watershed](https://czo-archive.criticalzone.org/images/made/images/national/field-area-rep-images/Boulder/glv7_ori_200_200_80auto_s_c1.jpg "Watersheds are cool")
 
 ### Contact Information 
