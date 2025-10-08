@@ -34,4 +34,5 @@ I chose to map Montana State University at Missoula because I would like to atte
 
 #### Portfolio Post work
 <img style="float: right;" src="/img/bozeman_temp.png" height="50%">
+This is a picture of Bozeman Temperatures, dating back to the late 1800s. There is some noisy data at the beginning, possibly due to stations being moved. Beginning in the 1950s, a gradual warming trend was observed, showing more reliable data.   
 
