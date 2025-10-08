@@ -8,6 +8,8 @@ This picture was taken during my semester abroad in Iceland. We primarily focuse
 
 ![picture of the Boulder Creek Watershed](https://czo-archive.criticalzone.org/images/made/images/national/field-area-rep-images/Boulder/glv7_ori_200_200_80auto_s_c1.jpg "Watersheds are cool")
 
+This is the Boulder watershed. I had the opportunity to work at the CU Mountain Research Center, where we conducted research on Niwot Ridge and in the Boulder Watershed. 
+
 ### Contact Information 
 * rjmethven3@gmail.com
 * https://www.linkedin.com/in/rj-methven-82376a2a1/
