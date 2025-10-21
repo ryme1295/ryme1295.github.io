@@ -2,7 +2,7 @@
 My full name is Ryan James Methven, but I just go by [RJ](https://ryme1295.github.io). I am working towards graduate school, and this certificate program is my first step toward that goal. I have worked in the field on Niwot Ridge as a field technician, conducting snow surveys as well as animal surveys, installing and maintaining stream gauges, contributing to limnology research, and collecting biomass and air samples. In Isafjordur, Iceland, I was a research assistant for the meteorological office. I was responsible for organizing snowpit profiles over the past two years to be able to cross-examine other data sets. While I'm in this course, I have been working seasonally in parks and recreation, but im currently at the Boulder Home Depot. 
 
 #### Images of me
-<img style="float: right;" src="/img/259b35eb-95ca-4739-a040-eed34a248c50.JPG" height=10%> 
+<img style="float: right;" src="/img/259b35eb-95ca-4739-a040-eed34a248c50.JPG" height="10%"> 
 
 This picture was taken during my semester abroad in Iceland. We primarily focused on climate change in the Arctic, and I had the opportunity to work at the Icelandic Meteorological Office during my final project. During my time there, I was exposed to data analysis for snowpack profiles. I wasn't able to work with Python at the time, and I felt limited. This motivated me to pursue this course and become proficient at analyzing data with a more complex and efficient programming language. 
 
