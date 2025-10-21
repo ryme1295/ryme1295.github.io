@@ -42,6 +42,6 @@ I chose to map Montana State University at Missoula because I would like to atte
 This is a picture of Bozeman Temperatures, dating back to the late 1800s. There is some noisy data at the beginning, possibly due to stations being moved. Beginning in the 1950s, a gradual warming trend was observed, showing more reliable data.   
 
 #### Veery Migration
-<embed type="text/html" src="img/migration.html" width="600" height="600">
+<embed type="text/html" src="img/migration.html" width="800" height="800">
 Here's a map of the Veery migration. Here's a link to my repository [https://github.com/earthlab-education/02-migration-ryme1295](https://github.com/earthlab-education/02-migration-ryme1295)
 
