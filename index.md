@@ -47,5 +47,6 @@ Here's a map of the Veery migration. Here's a link to my repository [https://git
 
 #### Bluejay Migration 
 <embed type="text/html" src="img/Blue_Jay_Migration2(1).html" width="800" hieght="800"> 
+Here's a map of the Blue Jay migration. Here's a link to my repository [
 
 
