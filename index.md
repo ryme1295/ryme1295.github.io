@@ -45,3 +45,7 @@ This is a picture of Bozeman Temperatures, dating back to the late 1800s. There 
 <embed type="text/html" src="img/migration.html" width="800" height="800">
 Here's a map of the Veery migration. Here's a link to my repository [https://github.com/earthlab-education/02-migration-ryme1295](https://github.com/earthlab-education/02-migration-ryme1295)
 
+#### Bluejay Migration 
+<embed type='text/html" src="img/Blue_Jay_Migration2 (1).html" width/"800 hieght=800"> 
+
+
