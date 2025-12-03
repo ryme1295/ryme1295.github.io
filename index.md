@@ -51,6 +51,7 @@ Here's a map of the Blue Jay migration. Here's a link to my repository [https://
 
 #### Elkhorn Fire 
 <embed type="text/html" src="img/elkhorn_ndvi.html" width="800" hieght="800"> 
+Here'sa map of the elkhorn fire. Here's a link to my repository [https://github.com/earthlab-education/04-vegetation-ryme1295/tree/main/notebooks] 
 
 
 
