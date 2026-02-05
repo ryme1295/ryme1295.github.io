@@ -55,3 +55,6 @@ Here'sa map of the elkhorn fire. Here's a link to my repository [https://github.
 
 #### Idaho fires
 <embed type="text/html" src="Final" width="600" hieght="600"> 
+
+#### Chicago Obesity
+<embed type="text/html" src="obesity_choropleth.html" width="600" height="600">
