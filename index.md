@@ -58,3 +58,4 @@ Here'sa map of the elkhorn fire. Here's a link to my repository [https://github.
 
 #### Chicago Obesity
 <embed type="text/html" src="obesity_choropleth.html" width="600" height="600">
+Here is a map showing rates of obesity in the southern part of Chicago, with a separate concentration closer to the city’s center. These patterns may be partly influenced by the distribution of green space and vegetation, which tends to be more limited in lower-income and less desirable areas. Reduced access to green areas can discourage physical activity and is often associated with poorer food environments and higher stress levels. Together, these factors can contribute to higher obesity rates in neighborhoods with fewer environmental and recreational resources.
