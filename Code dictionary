@@ -1,1 +1,9 @@
+#### Opening a cvs
+# Path to your CSV file
+csv_file_path = "your_file.csv"
 
+# Read the CSV into a DataFrame
+df = pd.read_csv(csv_file_path)
+
+# Show the first few rows
+print(df.head())
